@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>bgs.png</file>
+        <file>close2.png</file>
+        <file>close.png</file>
+        <file>steve.png</file>
+        <file>mainbg.png</file>
+        <file>BT_ht.png</file>
+        <file>BT_ps.png</file>
+    </qresource>
+</RCC>
